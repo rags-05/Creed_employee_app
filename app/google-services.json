@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640651768231",
+    "project_id": "creed-app-65aab",
+    "storage_bucket": "creed-app-65aab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640651768231:android:5c72a379ca5ad13eb68682",
+        "android_client_info": {
+          "package_name": "com.example.creed_employee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5itOubxSWQ_TTkpMuSe84rsjg1fnhFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
